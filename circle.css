@@ -1,0 +1,177 @@
+.blur-circle1{
+  width: 200px;
+  height: 200px;
+  background: radial-gradient(circle, rgb(255, 0, 0) 30%, rgba(255,0,0,0) 100%);
+  filter: blur(50px);
+  z-index: 0;
+  position:absolute;
+  top: 140px;
+  display: flex;
+  margin-left: -170px;
+}
+
+.blur-circle2{
+  width: 200px;
+  height: 200px;
+  background: radial-gradient(circle, rgb(246, 170, 38) 10%, rgba(255,0,0,0) 80%);
+  filter: blur(50px);
+  z-index: 0;
+  position:absolute;
+  top: 220px;
+  display: flex;
+  margin-left: -170px;
+}
+
+.blur-circle3{
+  width: 200px;
+  height: 200px;
+  background: radial-gradient(circle, rgb(255, 0, 0) 30%, rgba(255,0,0,0) 100%);
+  filter: blur(50px);
+  position: absolute;
+  top: 700px;
+  left: 1300px;
+  display: flex;
+}
+
+.blur-circle4{
+  width: 200px;
+  height: 200px;
+  background: radial-gradient(circle, rgb(246, 170, 38) 10%, rgba(255,0,0,0) 80%);
+  filter: blur(50px);
+  position: absolute;
+  top: 780px;
+  left: 1300px;
+  display: flex;
+}
+
+.blur-circle5{
+  width: 200px;
+  height: 200px;
+  background: radial-gradient(circle, rgb(255, 0, 0) 30%, rgba(255,0,0,0) 100%);
+  filter: blur(50px);
+  position: absolute;
+  top: 900px;
+  display: flex;
+  margin-left: -170px;
+}
+
+.blur-circle6{
+  width: 200px;
+  height: 200px;
+  background: radial-gradient(circle, rgb(246, 170, 38) 10%, rgba(255,0,0,0) 80%);
+  filter: blur(50px);
+  position:absolute;
+  top: 980px;
+  display: flex;
+  margin-left: -170px;
+}
+
+.blur-circle7{
+  width: 200px;
+  height: 200px;
+  background: radial-gradient(circle, rgb(255, 0, 0) 30%, rgba(255,0,0,0) 100%);
+  filter: blur(50px);
+  position:absolute;
+  top: 1350px;
+  left: 600px;
+}
+
+.blur-circle8{
+  width: 200px;
+  height: 200px;
+  background: radial-gradient(circle, rgb(246, 170, 38) 10%, rgba(255,0,0,0) 80%);
+  filter: blur(50px);
+  position:absolute;
+  top: 1430px;
+  left: 600px;
+  display: flex;
+}
+
+.blur-circle9{
+  width: 200px;
+  height: 200px;
+  background: radial-gradient(circle, rgb(255, 0, 0) 30%, rgba(255,0,0,0) 100%);
+  filter: blur(50px);
+  position: absolute;
+  top: 2450px;
+  left: 1300px;
+  display: flex;
+}
+
+.blur-circle10{
+  width: 200px;
+  height: 200px;
+  background: radial-gradient(circle, rgb(246, 170, 38) 10%, rgba(255,0,0,0) 80%);
+  filter: blur(50px);
+  position: absolute;
+  top: 2530px;
+  left: 1300px;
+  display: flex;
+}
+
+.blur-circle11{
+  width: 200px;
+  height: 200px;
+  background: radial-gradient(circle, rgb(255, 0, 0) 30%, rgba(255,0,0,0) 100%);
+  filter: blur(50px);
+  position: absolute;
+  top: 2200px;
+  display: flex;
+  margin-left: -170px;
+}
+
+.blur-circle12{
+  width: 200px;
+  height: 200px;
+  background: radial-gradient(circle, rgb(246, 170, 38) 10%, rgba(255,0,0,0) 80%);
+  filter: blur(50px);
+  position:absolute;
+  top: 2280px;
+  display: flex;
+  margin-left: -170px;
+}
+
+.blur-circle13{
+  width: 200px;
+  height: 200px;
+  background: radial-gradient(circle, rgb(255, 0, 0) 30%, rgba(255,0,0,0) 100%);
+  filter: blur(50px);
+  position: absolute;
+  top: 3100px;
+  display: flex;
+  margin-left: -170px;
+}
+
+.blur-circle14{
+  width: 200px;
+  height: 200px;
+  background: radial-gradient(circle, rgb(246, 170, 38) 10%, rgba(255,0,0,0) 80%);
+  filter: blur(50px);
+  position:absolute;
+  top: 3180px;
+  display: flex;
+  margin-left: -170px;
+}
+
+.blur-circle15{
+  width: 200px;
+  height: 200px;
+  background: radial-gradient(circle, rgb(255, 0, 0) 30%, rgba(255,0,0,0) 100%);
+  filter: blur(50px);
+  position:absolute;
+  top: 3350px;
+  left: 600px;
+}
+
+.blur-circle16{
+  width: 200px;
+  height: 200px;
+  background: radial-gradient(circle, rgb(246, 170, 38) 10%, rgba(255,0,0,0) 80%);
+  filter: blur(50px);
+  position:absolute;
+  top: 3430px;
+  left: 600px;
+  display: flex;
+}
+
+
